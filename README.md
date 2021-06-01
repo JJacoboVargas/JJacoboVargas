@@ -2,7 +2,7 @@
 
 <br/>
 
-Hace 5 años inicie el camino de mejorar las habilidades de análisis de datos, a la fecha sigo aprendiendo a reducir el tiempo de preparación de datos y comprender la creación de indicadores en múltiples sectores. Durante el recorrido profesional he utilizado diversas **aplicaciones de visualización, gestores de bases de datos y lenguajes de programación.** Estoy interesado en participar en proyectos o equipos que generen una transformación por medio de datos. En el tiempo libre escribo “¿por qué las comas separan los valores? Una visión a las estructuras de datos.”
+Hace 5 años inicie el camino de mejorar mis habilidades de análisis de datos, hoy continúo aprendiendo técnicas para reducir el tiempo de preparación de datos y metodologías para comprender la creación de indicadores en múltiples sectores. Durante el recorrido profesional he utilizado diversas **aplicaciones de visualización, gestores de bases de datos y lenguajes de programación.** Estoy interesado en participar en proyectos o equipos que generen una transformación por medio de datos. En el tiempo libre escribo *“¿por qué las comas separan los valores? Una visión a las estructuras de datos.”*
 
 <img align="right" alt="GIF" src="https://github.com/JJacoboVargas/JJacoboVargas/blob/main/img/dashboard.gif" width="400" />
 
