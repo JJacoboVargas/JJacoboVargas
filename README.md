@@ -1,9 +1,10 @@
 ## ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br/>
-Hace 5 años inicie el camino de mejorar las habilidades de análisis de datos, a la fecha sigo aprendiendo a reducir el tiempo de preparación de datos y comprender la creación de indicadores en múltiples sectores. Durante el recorrido profesional he utilizado diversas * aplicaciones de visualización, gestores de bases de datos y lenguajes de programación. * Estoy interesado en participar en proyectos o equipos que generen una transformación por medio de datos. En el tiempo libre escribo “¿por qué las comas separan los valores? Una visión a las estructuras de datos.”
 
-<img align="right" alt="GIF" src="https://i.gifer.com/74pZ.gif" width="400" />
+Hace 5 años inicie el camino de mejorar las habilidades de análisis de datos, a la fecha sigo aprendiendo a reducir el tiempo de preparación de datos y comprender la creación de indicadores en múltiples sectores. Durante el recorrido profesional he utilizado diversas **aplicaciones de visualización, gestores de bases de datos y lenguajes de programación.** Estoy interesado en participar en proyectos o equipos que generen una transformación por medio de datos. En el tiempo libre escribo “¿por qué las comas separan los valores? Una visión a las estructuras de datos.”
+
+<img align="right" alt="GIF" src="https://github.com/JJacoboVargas/JJacoboVargas/blob/main/img/dashboard.gif" width="400" />
 
 - 🔭 Trabajando en [Sigma Ideas](https://sigmaideas.eu/)
 - 🌱 Aprendiendo de [Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting)
@@ -31,6 +32,7 @@ Hace 5 años inicie el camino de mejorar las habilidades de análisis de datos, 
 <a href="https://www.linkedin.com/in/jjacobovargas/"><img alt="Jacobo Vargas | Linkedin" src="https://img.shields.io/badge/-LinkedIn-212121?style=flat&logo=linkedin"/></a> &nbsp;
 
 <br/>
+
 ### **Iniciando un proyecto de NFT:**
 <a href="https://www.buymeacoffee.com/jjacobovargas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
