@@ -31,7 +31,7 @@ Hace 5 años inicie el camino de mejorar las habilidades de análisis de datos, 
 <a href="https://www.linkedin.com/in/jjacobovargas/"><img alt="Jacobo Vargas | Linkedin" src="https://img.shields.io/badge/-LinkedIn-212121?style=flat&logo=linkedin"/></a> &nbsp;
 
 <br/>
-<br/>
+### **Iniciando un proyecto de NFT:**
 <a href="https://www.buymeacoffee.com/jjacobovargas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!--
